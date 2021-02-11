@@ -14,3 +14,5 @@ Install Augmenta module
 - Install the module :)
 
 Then launch the example
+
+[Chataigne][] is opensource you can check it here : https://github.com/benkuper/Chataigne
